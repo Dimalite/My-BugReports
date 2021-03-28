@@ -1,0 +1,52 @@
+Сайт тест:
+http://www.benjerry.co.uk/
+
+1. I hovered over Order Delivery on the top navigation bar
+2. I clicked Order Delivery on the top navigation bar
+3. Scrolled down to where it says, “Supermarket Delivery, Scoop Shops, Instant Deliver”.
+4. I Clicked on "Instant Delivery" to see how I could order ice cream straight away
+5. Scrolled down and saw that there were 7 different websites I could go to and order Ben and Jerry’s ice cream.
+
+1. Я наведал курсор на "Доставка заказа" на верхней панели навигации.
+2. Я нажал кнопку "Доставка заказа" на верхней панели навигации.
+3. Прокрутите вниз до места, где написано: «Доставка из супермаркета, Магазины, Мгновенная доставка».
+4. Я нажал «Мгновенная доставка», чтобы узнать, как можно сразу заказать мороженое.
+5. Прокрутил вниз и увидел, что есть 7 разных веб-сайтов, на которые я могу зайти и заказать мороженое Бена и Джерри.
+ароматы  
+          UC2
+1. Hover your cursor over the FLAVOURS item on the top navigation bar.
+2. Click the "FLAVOURS" button on the top navigation bar.
+3. Hover over and click on the ice cream you are interested 
+in the dropdown list.
+4. Scroll down to the place where it says: "ingredients +".
+5. Click on "+" for information on ingredients.
+6. All information of ingredients about ice cream will be displayed.
+    UC 3
+1. On the main page of the site on the navigation ribbon, hover the cursor over "ABOUT US".
+2. Click on "ABOUT US".
+3. In the dropdown list, hover your mouse pointer and click VIEW.
+4.Ben & Jerry ice cream history is displayed.
+    UC 4
+1.Scroll down to the footer of the site where you will see CONTACT US. 
+2. Click "CONTACT US" - information with phone numbers will be displayed.
+        UC   5
+1. Hover your cursor over the "Search Ben & Jerry's" item on the top navigation bar. 
+2. Click on the "Search Ben & Jerry's" element. (see screenshot 1)
+3. In the drop-down field, I entered the word "banana" and clicked on the search button. (see screenshot 2)
+4. Banana search results will be displayed: 6 found. (see screenshot 3)
+5. Move the cursor and click on "Recipe: Banana Ice Cream Bread, 3 Ingredients". (see screenshot 4)
+Then a quick recipe is then displayed on a new page. (see screenshot5)
+        
+Displays the latest ice cream news, information, events and general Ben & Jerry euphoria. 
+1. Hover your cursor over the "WHAT'S NEW" item on the top navigation bar. (see screenshot 6)
+2. Click here "12 February 2021. QUIZ: Love Or Ice Cream?". (see screenshot 7)
+A quiz is displayed with 10 questions that can be answered. (see screenshot 8)
+3.  Scroll down to the place where it says:  "SHOW ME MY PERSONALITY!". (see screenshot 9)
+4. Cklick here :  "SHOW ME MY PERSONALITY!".(see screenshot 10)
+Ребята стараются видно по предоставленной инфармации. Ярко, красочно а гланое подробно описаны виды мороженого и их ингредиенты!
+
+
+                      
+
+
+
