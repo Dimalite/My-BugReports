@@ -6,3 +6,12 @@
 Открывается страница с информацией.
 Фактический результат: 
 Открывается страница с инфо:"Запрашиваемая страница не найдена!"
+
+In the footer of the site, links about information are not valid (About us, Delivery, Security policy, Terms of agreement)
+1. Open the site: http://evroposud.top
+2. Scroll down the page.
+3. Click on one of the links in the "Information" column.
+Expected Result:
+The information page opens.
+Actual result:
+A page with info is opened: "The requested page was not found!"

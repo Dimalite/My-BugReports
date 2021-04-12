@@ -7,3 +7,12 @@
 Ожидаемый результат: Открывается страница с текстовым содержанием о политике безопасности.
 Фактический результат: Запрашиваемая страница не найдена.
 
+The site does not have a page "Security Policy".
+Reproduction steps:
+1. Open the website http://evroposud.top
+2. Go to the "Registration" page.
+3. Fill in all fields except the Security Policy.
+4. Press the "Security Policies" button. For reading and agreement.
+Expected Result: A page with textual content about the security policy is opened.
+Actual Result: The requested page was not found.
+
