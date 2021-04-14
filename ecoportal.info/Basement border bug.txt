@@ -1,0 +1,20 @@
+Site    https://ecoportal.info
+Reproduction steps:
+1. On the main page, select "Waste" from the menu.
+2. Scroll down the page and select the image labeled "Sort Waste and Garbage".
+3. Scroll down to the "Leave a Comment" section.
+4. Enter your own text in the comment text field.
+Expected Result:
+The text is displayed in the comment box.
+Actual result:
+The bottom border of the site page grows beyond the header and footer.
+
+Шаги воспроизведения:
+1. На главной странице в меню выбрать "Отходы".
+2. Прокрутите страницу вниз и выберите изображение с надписью "Сортировка отходов и мусора".
+3. Прокрутите страницу вниз до раздела "Оставить комментарий".
+4. В поле для текста комментария ввести свой текст.
+Ожидаемый результат:
+Текст отображается в поле для комментария.
+Фактический результат:
+Нижняя граница страницы сайта увеличивается за пределы колонтитула.

@@ -1,0 +1,28 @@
+https://www.olx.ua/       
+
+Главная>Мой профиль>Не верно переведено слово "Текущий" Отображается слово "поточный" с буквой "ы".
+Предварительное условие:
+URL: https://www.olx.ua
+Шаги воспроизведения:
+1. Кликнуть на "Мой профиль". 
+2. Для изменеия языка на сайте вверху на ленте кликнуть на "мова". 
+Ожидаемый результат:
+Все страница отображается переведена на украинский язык.
+Фактический результат:
+Слово "текущий" переведено на слово "поточный" с буквой "ы".
+
+
+
+Home> My profile> The word "Current" is not translated correctly The word "streaming" with the letter "ы" is displayed.
+Prerequisite:
+URL: https://www.olx.ua
+Reproduction steps:
+1. Click on "My Profile".
+2. To change the language on the site at the top of the ribbon, click on "mova".
+Expected Result:
+The entire page is displayed translated into Ukrainian.
+Actual result:
+The word "current" is translated into the word "streaming" with the letter "ы".
+
+https://business.olx.ua/
+Главная>
