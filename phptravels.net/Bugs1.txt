@@ -1,0 +1,24 @@
+1. REVIEWS  in Privacy Policy
+
+3. home>Featured Boats>don't click "ADD TO WISHLIST"
+4. The phone number is not clickable
+5. home>  company>Booking Options>Change date no function
+
+
+name sdfsdgAWW!@#12345
+email sdfsdgAWW!@ff.com
+***********************************************************
+2. home>Featured Rentals>don't click "ADD TO WISHLIST"
+1. Scroll down the page click 'Featured Rentals'.
+2. Scroll down the page click 'ADD TO WISHLIST'.
+3. The "Do you want to add it to wishlist?" Window appears on the screen. Click OK.
+ER
+The ADD TO WISHLIST button will change to REMOVE FROM WISHLIST. The selection has been added to your list.
+AR
+The "ADD TO WISHLIST" button does not function. The selection is not added to the list.
+***************************************************************
+Пользователю необходимо перезагружать телефон.
+
+
+Featured Tours
+

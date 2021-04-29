@@ -1,0 +1,38 @@
+                                               FOOTER          
+Contact US                                                                                         V 
+1. Scroll down the page click 'Contact'.
+2. Fill in all fields in the form / do not mark captcha.
+3. Don't press the "Submit" button.
+ER
+
+AR
+The page is restarted, the entered values are not saved. The fields are empty.
+_______________________________________
+Terms of Use           ????????
+1. Scroll down the page click 'Terms of Use'.                        V
+2. Click on the language icon with the flag
+change language to Arabic
+ER
+page ???
+AR
+????
+________________________________
+There is no list of partners.         ////      FAQ                               V
+1. Scroll down the page click 'Our Partners'.
+ER
+A page with a list of partners of the company will open.
+(A new page opens with a section of the list of partners.)
+AR
+A page will open where the list of partners of the company is missing.
+_____________________________
+_______________________________
+Incorrect CURRENCY CONVERTER                                                  V 
+1. Scroll down to the "Featured Tours" section.
+2. View prices for "Featured Tours".
+3. Go up the page and click on the change currency icon.
+4. Scroll down to the "Featured Tours" section with modified prices.
+ER
+Prices for "Recommended Tours" are displayed on the page
+CURRENCY CONVERTER recalculated prices correctly.
+AR
+The prices for "Recommended Tours" displayed on the page are not correct. CURRENCY CONVERTER recalculated prices incorrectly.
